@@ -114,9 +114,9 @@
 
 <glyph glyph-name="gard-filter" unicode="&#xe837;" d="M975 725h-262a23 23 0 0 1-25-21v-74a23 23 0 0 1 25-20h262a23 23 0 0 1 25 20v74a23 23 0 0 1-25 21z m25-671v73a21 21 0 0 1-19 21h-525a21 21 0 0 1-18-21v-73a21 21 0 0 1 18-21h525a21 21 0 0 1 19 21z m-21 383h-396a21 21 0 0 1-20-21v-74a21 21 0 0 1 20-21h396a21 21 0 0 1 21 21v74a21 21 0 0 1-21 21z m-513 288h-424a42 42 0 0 1-25-74l168-213v-372a28 28 0 0 1 10-21l70-60a36 36 0 0 1 50 2 37 37 0 0 1 9 20v431l168 212a42 42 0 0 1 9 58 42 42 0 0 1-35 17z" horiz-adv-x="1000" />
 
-<glyph glyph-name="gard-more" unicode="&#xe839;" d="M1000 288h-437v-438h-125v438h-438v125h438v437h125v-437h437z" horiz-adv-x="1000" />
+<glyph glyph-name="gard-plus" unicode="&#xe839;" d="M1000 288h-437v-438h-125v438h-438v125h438v437h125v-437h437z" horiz-adv-x="1000" />
 
-<glyph glyph-name="gard-less" unicode="&#xe83b;" d="M1000 288h-1000v125h1000z" horiz-adv-x="1000" />
+<glyph glyph-name="gard-minus" unicode="&#xe83b;" d="M1000 288h-1000v125h1000z" horiz-adv-x="1000" />
 </font>
 </defs>
 </svg>
